@@ -1,0 +1,5 @@
+{
+  "name": "Banking Agent Simulator",
+  "description": "A specialized banking AI agent simulator that dispatches requests to AMA, TPA, CSA, and FRA specialists based on Indonesian banking protocols.",
+  "requestFramePermissions": []
+}
